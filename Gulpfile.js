@@ -45,6 +45,29 @@ var thresholdables = [
     '!**/ingotHot_OVERLAY.png',
     '!**/fluids/*.png',
 ];
+// Force these files to grayscale:
+var grayscaleables = [
+    '**/blocks/materialicons/**/*.png',
+    '**/BUTCHERYKNIFE.png',
+    '**/CROWBAR.png',
+    '**/GRAFTER.png',
+    '**/JACKHAMMER.png',
+    '**/KNIFE.png',
+    '**/MORTAR.png',
+    '**/ROLLING_PING.png',
+    '**/SCOOP.png',
+    '**/SICKLE.PNG',
+    '**/TURBINE*.png',
+    '**/WIRE_CUTTER.png',
+    '**/WRENCH.png',
+    '**/items/materialicons/**/*.png',
+    // Add similar entries to the below to disable grayscaling for specific files, e.g.:
+    // '!**/blocks/someBlock.png',
+    // '!**/blocks/someOtherBlock.png',
+    // '!**/items/someItem.png',
+    // etc...
+    '!**/*_OVERLAY.png',
+];
 // Optimise these files using imagemin:
 var compressables = [
     '**/*.png',
@@ -174,6 +197,8 @@ function resizeStream(dirname, size) {
         filterCompressables = $.filter(compressables, { restore: true });
         // Resize these files:
         filterResizeables = $.filter(resizeables, { restore: true });
+        // Grayscale these files:
+        filterGrayscaleables = $.filter(grayscaleables, { restore: true});
         // Apply threshold filter to (remove transparent pixels from) these files:
         filterThresholdables = $.filter(thresholdables, { restore: true });
 
@@ -211,6 +236,12 @@ function resizeStream(dirname, size) {
                 }))
             .pipe(filterThresholdables.restore)
             // pass images registered in compressables through imagemin
+            .pipe(filterGrayscaleables)
+                .pipe($.gm(function (imageFile) {
+                   return imageFile
+                        .colorspace('GRAY');
+                }))
+            .pipe(filterGrayscaleables.restore)
             .pipe(filterCompressables)
                 // Measure file-by-file byte difference
                 .pipe($.bytediff.start())

@@ -157,12 +157,7 @@ Missing 128x texture: gregtech\textures\blocks\iconsets\FUSIONI_7.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\FUSIONI_8.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\FUSIONI_9.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_DRAGONEGG.png
-Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_ENGINE_INTAKE.png
-Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_FUSION.png
-Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_FUSION_2.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_FUSION_COIL.png
-Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_FUSION_GLASS.png
-Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_FUSION_GLASS_YELLOW.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_GEARBOX_BRONZE.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_GEARBOX_STEEL.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_GEARBOX_TITANIUM.png
@@ -235,116 +230,10 @@ Missing 128x texture: gregtech\textures\blocks\iconsets\PIPE_RESTRICTOR.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\RENDERING_ERROR.png - deliberately not retexturing
 Missing 128x texture: gregtech\textures\blocks\iconsets\VENT_ADVANCED.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\VENT_NORMAL.png
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\DIAMOND\block1.png (16 x 16) - took a while to track down how this is actually used, but it's for a plate being used as a cover, with some exceptions (iron, gold, diamond, emerald, lapis, coal, redstone, glowstone, nether quartz, obsidian, stone, black/red granite, and concrete plates use copied block textures instead)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\DIAMOND\block3.png (16 x 16) - used for triple-plate covers
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\DIAMOND\block6.png (16 x 16) - used for dense-plate covers
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\DULL\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\DULL\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\DULL\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\EMERALD\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\EMERALD\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\EMERALD\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\block2.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\block4.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\block5.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\foil.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\ore.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FIERY\oreSmall.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FINE\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FINE\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FINE\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FLINT\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FLINT\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FLINT\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FLUID\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FLUID\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\FLUID\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GEM_HORIZONTAL\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GEM_HORIZONTAL\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GEM_HORIZONTAL\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GEM_VERTICAL\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GEM_VERTICAL\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GEM_VERTICAL\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GLASS\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GLASS\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\GLASS\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LAPIS\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LAPIS\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LAPIS\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LEAF\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LEAF\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LEAF\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LEAF\ore.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LIGNITE\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LIGNITE\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\LIGNITE\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\MAGNETIC\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\MAGNETIC\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\MAGNETIC\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\MAGNETIC\ore.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\METALLIC\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\METALLIC\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\METALLIC\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\NETHERSTAR\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\NETHERSTAR\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\NETHERSTAR\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\NONE\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\NONE\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\NONE\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\OPAL\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\OPAL\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\OPAL\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\PAPER\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\PAPER\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\PAPER\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\POWDER\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\POWDER\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\POWDER\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\QUARTZ\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\QUARTZ\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\QUARTZ\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\ROUGH\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\ROUGH\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\ROUGH\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\RUBY\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\RUBY\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\RUBY\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SAND\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SAND\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SAND\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SHARDS\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SHARDS\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SHARDS\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SHINY\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SHINY\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\SHINY\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\WOOD\block1.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\WOOD\block3.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\WOOD\block6.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\blocks\materialicons\WOOD\ore.png (16 x 16)
-Unexpected image size in 128x textures: gregtech\textures\gui\BronzeCraftingTable.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\ComputerCubeRedstone.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\CropHarvestor.png (256 x 256) - not used by mod, removed (machine was migrated to IC2)
-Unexpected image size in 128x textures: gregtech\textures\gui\ElectricAutoWorkbench.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\ElectricBufferSmall.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\ElectricItemCleaner.png (256 x 256) - not used by mod, removed
 Unexpected image size in 128x textures: gregtech\textures\gui\Filter.png (256 x 256) - still needs sphaxification.
 Unexpected image size in 128x textures: gregtech\textures\gui\FusionComputer.png (256 x 256) - still needs sphaxification (though not clear whether it needs it here or under "multimachines")
-Unexpected image size in 128x textures: gregtech\textures\gui\Implosion.png (256 x 256) - not used by mod, removed (mod uses multimachines/ImplosionCompressor.png now)
-Unexpected image size in 128x textures: gregtech\textures\gui\InventoryManager.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\MagicAbsorber.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\RedstoneCircuitBlock.png (256 x 256) - not used by mod, removed
 Unexpected image size in 128x textures: gregtech\textures\gui\Regulator.png (256 x 256) - still needs sphaxification
-Unexpected image size in 128x textures: gregtech\textures\gui\Retriever.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\Safe.png (256 x 256) - not used by mod, removed (I think the machine/block was migrated to IC2)
-Unexpected image size in 128x textures: gregtech\textures\gui\Sonictron.png (256 x 256) - not used by mod, removed (looks like it no longer uses a GUI)
 Unexpected image size in 128x textures: gregtech\textures\gui\Teleporter.png (256 x 256) - still needs sphaxification
-Unexpected image size in 128x textures: gregtech\textures\gui\Tradeomat_Inventory.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\Tradeomat_Main.png (256 x 256) - not used by mod, removed
-Unexpected image size in 128x textures: gregtech\textures\gui\Tradeomat_Settings.png (256 x 256) - not used by mod, removed
 Unexpected image size in 128x textures: gregtech\textures\gui\TypeFilter.png (256 x 256) - still needs sphaxification
 Missing 128x texture: gregtech\textures\gui\armorgui3x3.png - not used by mod
 Missing 128x texture: gregtech\textures\gui\armorgui3x4.png - not used by mod
@@ -510,10 +399,6 @@ Missing 128x texture: gregtech\textures\models\armor\e1_helmet_chest.png
 Missing 128x texture: gregtech\textures\models\armor\e1_leggings_boots.png
 Missing 128x texture: gregtech\textures\models\armor\e2_helmet_chest.png
 Missing 128x texture: gregtech\textures\models\armor\e2_leggings_boots.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Corpseplant.1.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Corpseplant.2.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Corpseplant.3.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Corpseplant.4.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Evil Ore.1.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Evil Ore.2.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Evil Ore.3.png
@@ -526,10 +411,6 @@ Missing 128x texture: ic2\textures\blocks\crop\blockCrop.God of Thunder.1.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.God of Thunder.2.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.God of Thunder.3.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.God of Thunder.4.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Meatrose.1.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Meatrose.2.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Meatrose.3.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Meatrose.4.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Olivia.1.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Olivia.2.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Olivia.3.png
@@ -553,10 +434,6 @@ Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Stargatium.4.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Tine.1.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Tine.2.png
 Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Tine.3.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Zomplant.1.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Zomplant.2.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Zomplant.3.png
-Missing 128x texture: ic2\textures\blocks\crop\blockCrop.Zomplant.4.png
 Missing 128x texture: minecraft\textures\models\armor\cloakingdevice_layer_1.png - not used by mod
 Missing 128x texture: minecraft\textures\models\armor\lapotronpack_layer_1.png - not used by mod
 Missing 128x texture: minecraft\textures\models\armor\lithiumbatpack_layer_1.png - not used by mod
