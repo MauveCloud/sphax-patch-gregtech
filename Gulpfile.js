@@ -43,6 +43,7 @@ var thresholdables = [
     '!**/dustImpure_OVERLAY.png',
     '!**/dustPure_OVERLAY.png',
     '!**/ingotHot_OVERLAY.png',
+    '!**/fluids/*.png',
 ];
 // Optimise these files using imagemin:
 var compressables = [
