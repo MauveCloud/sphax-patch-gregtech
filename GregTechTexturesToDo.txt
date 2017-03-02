@@ -109,8 +109,6 @@ Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_SIDE.
 Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_SIDE_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_TOP.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_TOP_ACTIVE.png
-Unexpected image size in 128x textures: gregtech\textures\blocks\basicmachines\polarizer\OVERLAY_FRONT.png (64 x 64)
-Unexpected image size in 128x textures: gregtech\textures\blocks\basicmachines\polarizer\OVERLAY_FRONT_ACTIVE.png (64 x 64)
 Missing 128x texture: gregtech\textures\blocks\basicmachines\polarizer\OVERLAY_TOP.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\polarizer\OVERLAY_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\press\OVERLAY_TOP.png
@@ -119,7 +117,7 @@ Missing 128x texture: gregtech\textures\blocks\basicmachines\printer\OVERLAY_FRO
 Missing 128x texture: gregtech\textures\blocks\basicmachines\printer\OVERLAY_FRONT_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\pulverizer\OVERLAY_TOP.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\pulverizer\OVERLAY_TOP_ACTIVE.png
-Unexpected image size in 128x textures: Missing 128x texture: gregtech\textures\blocks\basicmachines\sifter\OVERLAY_FRONT.png
+Missing 128x texture: gregtech\textures\blocks\basicmachines\sifter\OVERLAY_FRONT.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\sifter\OVERLAY_FRONT_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\sifter\OVERLAY_TOP.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\sifter\OVERLAY_TOP_ACTIVE.png
