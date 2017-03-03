@@ -190,7 +190,6 @@ Missing 128x texture: gregtech\textures\blocks\iconsets\NAQUADAH_REACTOR_SOLID_S
 Missing 128x texture: gregtech\textures\blocks\iconsets\NAQUADAH_REACTOR_SOLID_TOP.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\NAQUADAH_REACTOR_SOLID_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\OVERLAY_ACTIVITYDETECTOR.png
-Missing 128x texture: gregtech\textures\blocks\iconsets\OVERLAY_ADV_PUMP.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\OVERLAY_ARM.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\OVERLAY_CLOSET.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\OVERLAY_CONTROLLER.png
@@ -229,13 +228,11 @@ Missing 128x texture: gregtech\textures\blocks\iconsets\RENDERING_ERROR.png - de
 Missing 128x texture: gregtech\textures\blocks\iconsets\VENT_ADVANCED.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\VENT_NORMAL.png
 Unexpected image size in 128x textures: gregtech\textures\gui\Filter.png (256 x 256) - still needs sphaxification.
-Unexpected image size in 128x textures: gregtech\textures\gui\FusionComputer.png (256 x 256) - still needs sphaxification (though not clear whether it needs it here or under "multimachines")
 Unexpected image size in 128x textures: gregtech\textures\gui\Regulator.png (256 x 256) - still needs sphaxification
 Unexpected image size in 128x textures: gregtech\textures\gui\Teleporter.png (256 x 256) - still needs sphaxification
 Unexpected image size in 128x textures: gregtech\textures\gui\TypeFilter.png (256 x 256) - still needs sphaxification
 Missing 128x texture: gregtech\textures\gui\armorgui3x3.png - not used by mod
 Missing 128x texture: gregtech\textures\gui\armorgui3x4.png - not used by mod
-Missing 128x texture: gregtech\textures\gui\multimachines\FusionComputer.png
 Missing 128x texture: gregtech\textures\gui\multimachines\LargeDieselEngine.png
 Missing 128x texture: gregtech\textures\items\gt.metaitem.01\462.png (Heavy Duty Alloy Ingot, looks like it is only craftable/usable with Galacticraft installed)
 Missing 128x texture: gregtech\textures\items\gt.metaitem.01\463.png (Heavy Duty Alloy Ingot T2, looks like it is only craftable/usable with Galacticraft installed)
