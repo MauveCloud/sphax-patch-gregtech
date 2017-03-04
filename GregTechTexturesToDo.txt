@@ -95,14 +95,8 @@ Missing 128x texture: gregtech\textures\blocks\basicmachines\electromagnetic_sep
 Missing 128x texture: gregtech\textures\blocks\basicmachines\electromagnetic_separator\OVERLAY_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\extruder\OVERLAY_FRONT.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\extruder\OVERLAY_FRONT_ACTIVE.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\fluid_extractor\OVERLAY_TOP.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\fluid_extractor\OVERLAY_TOP_ACTIVE.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\fluid_heater\OVERLAY_TOP.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\fluid_heater\OVERLAY_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\lathe\OVERLAY_FRONT.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\lathe\OVERLAY_FRONT_ACTIVE.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\macerator\OVERLAY_TOP.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\macerator\OVERLAY_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_FRONT.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_FRONT_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_SIDE.png
@@ -111,12 +105,8 @@ Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_TOP.p
 Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\polarizer\OVERLAY_TOP.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\polarizer\OVERLAY_TOP_ACTIVE.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\press\OVERLAY_TOP.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\press\OVERLAY_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\printer\OVERLAY_FRONT.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\printer\OVERLAY_FRONT_ACTIVE.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\pulverizer\OVERLAY_TOP.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\pulverizer\OVERLAY_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\sifter\OVERLAY_FRONT.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\sifter\OVERLAY_FRONT_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\sifter\OVERLAY_TOP.png
@@ -154,7 +144,6 @@ Missing 128x texture: gregtech\textures\blocks\iconsets\FUSIONI_6.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\FUSIONI_7.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\FUSIONI_8.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\FUSIONI_9.png
-Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_DRAGONEGG.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_FUSION_COIL.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_GEARBOX_BRONZE.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\MACHINE_CASING_GEARBOX_STEEL.png
@@ -228,7 +217,6 @@ Missing 128x texture: gregtech\textures\blocks\iconsets\RENDERING_ERROR.png - de
 Missing 128x texture: gregtech\textures\blocks\iconsets\VENT_ADVANCED.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\VENT_NORMAL.png
 Unexpected image size in 128x textures: gregtech\textures\gui\Filter.png (256 x 256) - still needs sphaxification.
-Unexpected image size in 128x textures: gregtech\textures\gui\Regulator.png (256 x 256) - still needs sphaxification
 Unexpected image size in 128x textures: gregtech\textures\gui\Teleporter.png (256 x 256) - still needs sphaxification
 Unexpected image size in 128x textures: gregtech\textures\gui\TypeFilter.png (256 x 256) - still needs sphaxification
 Missing 128x texture: gregtech\textures\gui\armorgui3x3.png - not used by mod

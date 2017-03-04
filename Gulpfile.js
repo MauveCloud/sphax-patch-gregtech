@@ -235,13 +235,13 @@ function resizeStream(dirname, size) {
                         .operator('Opacity', 'Threshold', 50, '%');
                 }))
             .pipe(filterThresholdables.restore)
-            // pass images registered in compressables through imagemin
             .pipe(filterGrayscaleables)
                 .pipe($.gm(function (imageFile) {
                    return imageFile
                         .colorspace('GRAY');
                 }))
             .pipe(filterGrayscaleables.restore)
+            // pass images registered in compressables through imagemin
             .pipe(filterCompressables)
                 // Measure file-by-file byte difference
                 .pipe($.bytediff.start())
