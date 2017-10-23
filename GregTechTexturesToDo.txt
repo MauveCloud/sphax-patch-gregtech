@@ -93,8 +93,6 @@ Missing 128x texture: gregtech\textures\blocks\basicmachines\electric_oven\OVERL
 Missing 128x texture: gregtech\textures\blocks\basicmachines\electric_oven\OVERLAY_TOP_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\electromagnetic_separator\OVERLAY_TOP.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\electromagnetic_separator\OVERLAY_TOP_ACTIVE.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\extruder\OVERLAY_FRONT.png
-Missing 128x texture: gregtech\textures\blocks\basicmachines\extruder\OVERLAY_FRONT_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\lathe\OVERLAY_FRONT.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\lathe\OVERLAY_FRONT_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\mixer\OVERLAY_FRONT.png
