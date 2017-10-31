@@ -44,6 +44,12 @@ var thresholdables = [
     '!**/dustPure_OVERLAY.png',
     '!**/ingotHot_OVERLAY.png',
     '!**/fluids/*.png',
+    '!**/1.7.10_2/**/gt.metaitem.01/705.png', // Mainframes
+    '!**/1.7.10_2/**/gt.metaitem.01/706.png',
+    '!**/1.7.10_2/**/gt.metaitem.03/88.png',
+    '!**/1.7.10_2/**/gt.metaitem.03/91.png',
+    '!**/1.7.10_2/**/gt.metaitem.03/95.png',
+    
 ];
 // Force these files to grayscale:
 var grayscaleables = [
