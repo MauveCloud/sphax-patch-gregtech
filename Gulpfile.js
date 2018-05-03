@@ -41,8 +41,11 @@ var thresholdables = [
     // etc...
     '!**/icons/**/*.png',
     '!**/dustImpure_OVERLAY.png',
+    '!**/dust_impure_overlay.png',
     '!**/dustPure_OVERLAY.png',
+    '!**/dust_pure_overlay.png',
     '!**/ingotHot_OVERLAY.png',
+    '!**/ingot_hot_overlay.png',
     '!**/fluids/*.png',
     '!**/1.7.10_2/**/gt.metaitem.01/705.png', // Mainframes
     '!**/1.7.10_2/**/gt.metaitem.01/706.png',
@@ -54,6 +57,7 @@ var thresholdables = [
 // Force these files to grayscale:
 var grayscaleables = [
     '**/blocks/materialicons/**/*.png',
+    '**/blocks/material_sets/**/*.png',
     '**/BUTCHERYKNIFE.png',
     '**/CROWBAR.png',
     '**/GRAFTER.png',
@@ -67,12 +71,14 @@ var grayscaleables = [
     '**/WIRE_CUTTER.png',
     '**/WRENCH.png',
     '**/items/materialicons/**/*.png',
+    '**/items/materal_sets/**/*.png',
     // Add similar entries to the below to disable grayscaling for specific files, e.g.:
     // '!**/blocks/someBlock.png',
     // '!**/blocks/someOtherBlock.png',
     // '!**/items/someItem.png',
     // etc...
     '!**/*_OVERLAY.png',
+    '!**/*_overlay.png',
 ];
 // Optimise these files using imagemin:
 var compressables = [
