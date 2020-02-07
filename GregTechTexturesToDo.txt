@@ -113,9 +113,6 @@ Missing 128x texture: gregtech\textures\blocks\basicmachines\slicer\OVERLAY_FRON
 Missing 128x texture: gregtech\textures\blocks\basicmachines\slicer\OVERLAY_FRONT_ACTIVE.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\unboxinator\OVERLAY_FRONT.png
 Missing 128x texture: gregtech\textures\blocks\basicmachines\unboxinator\OVERLAY_FRONT_ACTIVE.png
-Missing 128x texture: gregtech\textures\blocks\fluids\fluid.fluorine.png
-Missing 128x texture: gregtech\textures\blocks\fluids\fluid.for.honey.png
-Missing 128x texture: gregtech\textures\blocks\fluids\fluid.radon.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\BOILER_SOLAR.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\COVER_WOOD_PLATE.png
 Missing 128x texture: gregtech\textures\blocks\iconsets\FUSIONII_1.png
