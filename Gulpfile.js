@@ -64,7 +64,7 @@ var grayscaleables = [
     '**/JACKHAMMER.png',
     '**/KNIFE.png',
     '**/MORTAR.png',
-    '**/ROLLING_PING.png',
+    '**/ROLLING_PIN.png',
     '**/SCOOP.png',
     '**/SICKLE.PNG',
     '**/TURBINE*.png',
