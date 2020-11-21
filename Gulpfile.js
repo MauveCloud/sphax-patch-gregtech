@@ -71,7 +71,8 @@ var grayscaleables = [
     '**/WIRE_CUTTER.png',
     '**/WRENCH.png',
     '**/items/materialicons/**/*.png',
-    '**/items/materal_sets/**/*.png',
+    '**/items/material_sets/**/*.png',
+    '**/items/tools/*.png',
     // Add similar entries to the below to disable grayscaling for specific files, e.g.:
     // '!**/blocks/someBlock.png',
     // '!**/blocks/someOtherBlock.png',
@@ -79,6 +80,9 @@ var grayscaleables = [
     // etc...
     '!**/*_OVERLAY.png',
     '!**/*_overlay.png',
+    '!**/*_base.png',
+    '!**/handle*.png',
+    '!**/items/tools/power*.png',
 ];
 // Optimise these files using imagemin:
 var compressables = [
